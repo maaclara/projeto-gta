@@ -1,4 +1,4 @@
-# projeto-gta
+# Projeto GTA
 Semana do Zero ao Programador - Dev em Dobro
 Projeto feito em live.
 
